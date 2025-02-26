@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tomak\\Desktop\\EF-CORE SAL\u0130H CAN\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56502ED1-2F0C-4A3F-B33E-55AF53EC3820}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\tomak\\desktop\\ef-core sal\u0130h can\\librarymanagementsystem\\librarymanagementsystem\\migrations\\20250226194302_usersbooksseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56502ED1-2F0C-4A3F-B33E-55AF53EC3820}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\migrations\\20250226194302_usersbooksseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56502ED1-2F0C-4A3F-B33E-55AF53EC3820}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\tomak\\desktop\\ef-core sal\u0130h can\\librarymanagementsystem\\librarymanagementsystem\\typeconfig\\usertypeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56502ED1-2F0C-4A3F-B33E-55AF53EC3820}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\typeconfig\\usertypeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56502ED1-2F0C-4A3F-B33E-55AF53EC3820}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\tomak\\desktop\\ef-core sal\u0130h can\\librarymanagementsystem\\librarymanagementsystem\\typeconfig\\userdetailtypeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56502ED1-2F0C-4A3F-B33E-55AF53EC3820}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\typeconfig\\userdetailtypeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56502ED1-2F0C-4A3F-B33E-55AF53EC3820}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\tomak\\desktop\\ef-core sal\u0130h can\\librarymanagementsystem\\librarymanagementsystem\\typeconfig\\authortypeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56502ED1-2F0C-4A3F-B33E-55AF53EC3820}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\typeconfig\\authortypeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56502ED1-2F0C-4A3F-B33E-55AF53EC3820}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\tomak\\desktop\\ef-core sal\u0130h can\\librarymanagementsystem\\librarymanagementsystem\\typeconfig\\booktypeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56502ED1-2F0C-4A3F-B33E-55AF53EC3820}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\typeconfig\\booktypeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56502ED1-2F0C-4A3F-B33E-55AF53EC3820}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\tomak\\desktop\\ef-core sal\u0130h can\\librarymanagementsystem\\librarymanagementsystem\\migrations\\20250226191253_addseeddataall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56502ED1-2F0C-4A3F-B33E-55AF53EC3820}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\migrations\\20250226191253_addseeddataall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56502ED1-2F0C-4A3F-B33E-55AF53EC3820}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\tomak\\desktop\\ef-core sal\u0130h can\\librarymanagementsystem\\librarymanagementsystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56502ED1-2F0C-4A3F-B33E-55AF53EC3820}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56502ED1-2F0C-4A3F-B33E-55AF53EC3820}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\tomak\\desktop\\ef-core sal\u0130h can\\librarymanagementsystem\\librarymanagementsystem\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56502ED1-2F0C-4A3F-B33E-55AF53EC3820}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56502ED1-2F0C-4A3F-B33E-55AF53EC3820}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\tomak\\desktop\\ef-core sal\u0130h can\\librarymanagementsystem\\librarymanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56502ED1-2F0C-4A3F-B33E-55AF53EC3820}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56502ED1-2F0C-4A3F-B33E-55AF53EC3820}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\tomak\\desktop\\ef-core sal\u0130h can\\librarymanagementsystem\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56502ED1-2F0C-4A3F-B33E-55AF53EC3820}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56502ED1-2F0C-4A3F-B33E-55AF53EC3820}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\tomak\\desktop\\ef-core sal\u0130h can\\librarymanagementsystem\\librarymanagementsystem\\migrations\\20250226190249_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56502ED1-2F0C-4A3F-B33E-55AF53EC3820}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\migrations\\20250226190249_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56502ED1-2F0C-4A3F-B33E-55AF53EC3820}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\tomak\\desktop\\ef-core sal\u0130h can\\librarymanagementsystem\\librarymanagementsystem\\context\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56502ED1-2F0C-4A3F-B33E-55AF53EC3820}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\context\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250226194302_UsersBooksSeedData.cs",
+              "DocumentMoniker": "C:\\Users\\tomak\\Desktop\\EF-CORE SAL\u0130H CAN\\LibraryManagementSystem\\LibraryManagementSystem\\Migrations\\20250226194302_UsersBooksSeedData.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Migrations\\20250226194302_UsersBooksSeedData.cs",
+              "ToolTip": "C:\\Users\\tomak\\Desktop\\EF-CORE SAL\u0130H CAN\\LibraryManagementSystem\\LibraryManagementSystem\\Migrations\\20250226194302_UsersBooksSeedData.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Migrations\\20250226194302_UsersBooksSeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T19:43:08.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250226191253_AddSeedDataAll.cs",
+              "DocumentMoniker": "C:\\Users\\tomak\\Desktop\\EF-CORE SAL\u0130H CAN\\LibraryManagementSystem\\LibraryManagementSystem\\Migrations\\20250226191253_AddSeedDataAll.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Migrations\\20250226191253_AddSeedDataAll.cs",
+              "ToolTip": "C:\\Users\\tomak\\Desktop\\EF-CORE SAL\u0130H CAN\\LibraryManagementSystem\\LibraryManagementSystem\\Migrations\\20250226191253_AddSeedDataAll.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Migrations\\20250226191253_AddSeedDataAll.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T19:12:56.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250226190249_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\tomak\\Desktop\\EF-CORE SAL\u0130H CAN\\LibraryManagementSystem\\LibraryManagementSystem\\Migrations\\20250226190249_FirstMigration.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Migrations\\20250226190249_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\tomak\\Desktop\\EF-CORE SAL\u0130H CAN\\LibraryManagementSystem\\LibraryManagementSystem\\Migrations\\20250226190249_FirstMigration.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Migrations\\20250226190249_FirstMigration.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T19:02:53.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorTypeConfig.cs",
+              "DocumentMoniker": "C:\\Users\\tomak\\Desktop\\EF-CORE SAL\u0130H CAN\\LibraryManagementSystem\\LibraryManagementSystem\\TypeConfig\\AuthorTypeConfig.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\TypeConfig\\AuthorTypeConfig.cs",
+              "ToolTip": "C:\\Users\\tomak\\Desktop\\EF-CORE SAL\u0130H CAN\\LibraryManagementSystem\\LibraryManagementSystem\\TypeConfig\\AuthorTypeConfig.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\TypeConfig\\AuthorTypeConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T19:00:03.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDetailTypeConfig.cs",
+              "DocumentMoniker": "C:\\Users\\tomak\\Desktop\\EF-CORE SAL\u0130H CAN\\LibraryManagementSystem\\LibraryManagementSystem\\TypeConfig\\UserDetailTypeConfig.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\TypeConfig\\UserDetailTypeConfig.cs",
+              "ToolTip": "C:\\Users\\tomak\\Desktop\\EF-CORE SAL\u0130H CAN\\LibraryManagementSystem\\LibraryManagementSystem\\TypeConfig\\UserDetailTypeConfig.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\TypeConfig\\UserDetailTypeConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:57:43.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookTypeConfig.cs",
+              "DocumentMoniker": "C:\\Users\\tomak\\Desktop\\EF-CORE SAL\u0130H CAN\\LibraryManagementSystem\\LibraryManagementSystem\\TypeConfig\\BookTypeConfig.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\TypeConfig\\BookTypeConfig.cs",
+              "ToolTip": "C:\\Users\\tomak\\Desktop\\EF-CORE SAL\u0130H CAN\\LibraryManagementSystem\\LibraryManagementSystem\\TypeConfig\\BookTypeConfig.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\TypeConfig\\BookTypeConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:53:32.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserTypeConfig.cs",
+              "DocumentMoniker": "C:\\Users\\tomak\\Desktop\\EF-CORE SAL\u0130H CAN\\LibraryManagementSystem\\LibraryManagementSystem\\TypeConfig\\UserTypeConfig.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\TypeConfig\\UserTypeConfig.cs",
+              "ToolTip": "C:\\Users\\tomak\\Desktop\\EF-CORE SAL\u0130H CAN\\LibraryManagementSystem\\LibraryManagementSystem\\TypeConfig\\UserTypeConfig.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\TypeConfig\\UserTypeConfig.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwC0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:46:40.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\tomak\\Desktop\\EF-CORE SAL\u0130H CAN\\LibraryManagementSystem\\LibraryManagementSystem\\Context\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Context\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\tomak\\Desktop\\EF-CORE SAL\u0130H CAN\\LibraryManagementSystem\\LibraryManagementSystem\\Context\\LibraryContext.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Context\\LibraryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:43:02.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tomak\\Desktop\\EF-CORE SAL\u0130H CAN\\LibraryManagementSystem\\LibraryManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\tomak\\Desktop\\EF-CORE SAL\u0130H CAN\\LibraryManagementSystem\\LibraryManagementSystem\\appsettings.json",
+              "RelativeToolTip": "LibraryManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T18:19:43.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomak\\Desktop\\EF-CORE SAL\u0130H CAN\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\tomak\\Desktop\\EF-CORE SAL\u0130H CAN\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:18:26.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "67264157-2f9a-4ae4-9611-39b6986a8a47",
+        "Display": 1,
+        "X": 14,
+        "Y": 341,
+        "Width": 1637,
+        "Height": 982,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\tomak\\Desktop\\EF-CORE SAL\u0130H CAN\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\tomak\\Desktop\\EF-CORE SAL\u0130H CAN\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Author.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:28:50.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "57a2bdac-555d-40c4-930e-7a08d96e22c8",
+        "Display": 1,
+        "X": 635,
+        "Y": 0,
+        "Width": 650,
+        "Height": 1037,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\tomak\\Desktop\\EF-CORE SAL\u0130H CAN\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\tomak\\Desktop\\EF-CORE SAL\u0130H CAN\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T19:01:55.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
