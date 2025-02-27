@@ -3,6 +3,7 @@ using LibraryManagementSystem.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace LibraryManagementSystem.Migrations
 {
     [DbContext(typeof(LibraryContext))]
-    partial class LibraryContextModelSnapshot : ModelSnapshot
+    [Migration("20250227051801_MoreDataSeeds")]
+    partial class MoreDataSeeds
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -41,7 +44,7 @@ namespace LibraryManagementSystem.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Authors", (string)null);
+                    b.ToTable("Authors");
 
                     b.HasData(
                         new
@@ -163,7 +166,7 @@ namespace LibraryManagementSystem.Migrations
 
                     b.HasIndex("AuthorId");
 
-                    b.ToTable("Books", (string)null);
+                    b.ToTable("Books");
 
                     b.HasData(
                         new
@@ -308,7 +311,7 @@ namespace LibraryManagementSystem.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Users", (string)null);
+                    b.ToTable("Users");
 
                     b.HasData(
                         new
@@ -430,7 +433,7 @@ namespace LibraryManagementSystem.Migrations
                     b.HasIndex("UserId")
                         .IsUnique();
 
-                    b.ToTable("UserDetails", (string)null);
+                    b.ToTable("UserDetails");
 
                     b.HasData(
                         new
@@ -567,83 +570,13 @@ namespace LibraryManagementSystem.Migrations
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("usersBooks", (string)null);
+                    b.ToTable("usersBooks");
 
                     b.HasData(
                         new
                         {
                             BookId = 1,
                             UserId = 1
-                        },
-                        new
-                        {
-                            BookId = 2,
-                            UserId = 2
-                        },
-                        new
-                        {
-                            BookId = 3,
-                            UserId = 3
-                        },
-                        new
-                        {
-                            BookId = 4,
-                            UserId = 4
-                        },
-                        new
-                        {
-                            BookId = 5,
-                            UserId = 5
-                        },
-                        new
-                        {
-                            BookId = 6,
-                            UserId = 6
-                        },
-                        new
-                        {
-                            BookId = 7,
-                            UserId = 7
-                        },
-                        new
-                        {
-                            BookId = 8,
-                            UserId = 8
-                        },
-                        new
-                        {
-                            BookId = 9,
-                            UserId = 9
-                        },
-                        new
-                        {
-                            BookId = 10,
-                            UserId = 10
-                        },
-                        new
-                        {
-                            BookId = 11,
-                            UserId = 11
-                        },
-                        new
-                        {
-                            BookId = 12,
-                            UserId = 12
-                        },
-                        new
-                        {
-                            BookId = 13,
-                            UserId = 13
-                        },
-                        new
-                        {
-                            BookId = 14,
-                            UserId = 14
-                        },
-                        new
-                        {
-                            BookId = 15,
-                            UserId = 15
                         });
                 });
 
@@ -663,7 +596,7 @@ namespace LibraryManagementSystem.Migrations
                     b.HasOne("LibraryManagementSystem.Models.User", "User")
                         .WithOne("UserDetail")
                         .HasForeignKey("LibraryManagementSystem.Models.UserDetail", "UserId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.NoAction)
                         .IsRequired();
 
                     b.Navigation("User");

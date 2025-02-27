@@ -1,5 +1,7 @@
 
 using LibraryManagementSystem.Context;
+using LibraryManagementSystem.Repositories.Implemetations;
+using LibraryManagementSystem.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
 namespace LibraryManagementSystem
@@ -20,6 +22,7 @@ namespace LibraryManagementSystem
             var connStr = builder.Configuration.GetConnectionString("dockerConnection");
 
             builder.Services.AddDbContext<LibraryContext>(Options => Options.UseSqlServer(connStr));
+            builder.Services.AddScoped<IUserRepository,UserRepository>();
 
             var app = builder.Build();
 

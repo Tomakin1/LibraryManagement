@@ -1,4 +1,6 @@
-﻿namespace LibraryManagementSystem.Models
+﻿using System.Text.Json.Serialization;
+
+namespace LibraryManagementSystem.Models
 {
     public class User
     {
